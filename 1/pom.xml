@@ -13,6 +13,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+
                 <configuration>
                     <source>8</source>
                     <target>8</target>
@@ -47,7 +48,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <minimum>0.5</minimum>
+                                            <minimum>0.0</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
