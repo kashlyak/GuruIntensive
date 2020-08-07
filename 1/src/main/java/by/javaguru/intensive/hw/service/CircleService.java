@@ -10,6 +10,6 @@ public class CircleService {
     }
 
     public double calculateArea() {
-        return circle.getRadius()*2*3.14;
+        return (circle.getRadius()*2)*3.14;
     }
 }

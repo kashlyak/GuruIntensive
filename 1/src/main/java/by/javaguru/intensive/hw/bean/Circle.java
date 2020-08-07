@@ -6,6 +6,7 @@ public class Circle {
     private double radius;
 
     public Circle() {
+        //no args constructor
     }
 
     public double getRadius() {

@@ -13,8 +13,9 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-
                 <configuration>
+                    <fork>true</fork>
+                    <executable>C:\Program Files\Java\jdk-14.0.2\bin\javac.exe</executable>
                     <source>8</source>
                     <target>8</target>
                 </configuration>
@@ -48,7 +49,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <minimum>0.0</minimum>
+                                            <minimum>0.7</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
