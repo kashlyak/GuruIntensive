@@ -1,0 +1,7 @@
+organization=kashlyak
+projectKey=kashlyak_GuruIntensive
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.10544
+dashboardUrl=https://sonarcloud.io/dashboard?id=kashlyak_GuruIntensive
+ceTaskId=AXPISHHTpEfZFlddxgfY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXPISHHTpEfZFlddxgfY

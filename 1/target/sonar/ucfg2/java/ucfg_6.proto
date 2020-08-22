@@ -1,0 +1,67 @@
+
+@by.javaguru.intensive.hw.bean.Circle#equals(Ljava/lang/Object;)ZT
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java ("startingBlock*¹
+2T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java< (A"^
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java5 (B
+""*˜
+startingBlockT
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (#œ
+™
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (
+%3"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object†
+ƒ
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java! ("
+ojava.lang.Object"__annotation*
+
+%3*	
+2
+3
+5*þ
+3T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (!ÔÑ
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (#
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*(&
+$by.javaguru.intensive.hw.bean.Circle2
+getClass()ÃÀ
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java' (3
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+2
+1*¹
+5T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (""^
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (#
+""*
+1T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java! ("¨
+¥
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (#.
+circle$by.javaguru.intensive.hw.bean.Circle"__id*
+
+ojava.lang.Object©
+¦
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (4	
+%2int"java.lang.Double#compare(DD)I*"
+java.lang.Double*
+""*
+"""^
+T
+JE:/JavaIntensive/1/src/main/java/by/javaguru/intensive/hw/bean/Circle.java (:
+"":
+ojava.lang.ObjectB(&
+$by.javaguru.intensive.hw.bean.Circle
